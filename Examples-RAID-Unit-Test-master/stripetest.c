@@ -1,5 +1,5 @@
 #include <stdio.h>
-//Test//
+//Test2//
 #include "raidlib.h"
 
 int main(int argc, char *argv[])
